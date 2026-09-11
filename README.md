@@ -2,9 +2,6 @@
 
 This tutorial implements a Collaborative Filtering Recommendation System using the Cancer Cell Line Encyclopedia (CCLE) dataset. The system aims to predict the sensitivity of cancer cell lines to specific drugs using collaborative filtering techniques.
 
-- **Purpose**:
-  - This project was created for the Advance Computing and Big Data Final Exam.
-
 ## Project Overview
 
 - **Objective**: Predicting the sensitivity (rating) of cancer cell lines (user) to anticancer drugs (item) using collaborative filtering.
